@@ -10,9 +10,9 @@ In addition, if you want to use the synthetic CT for clinical dose calculation o
 You can modify the code to adapt your research work, or simply preparing your data and running according to below steps: 
 
 1. All training MR image data should be put in "/datasets/DcmData/trainA/" folder;
-    Your training CT image data should be put in "/datasets/DcmData/trainB/" folder;
-    Testing MR image data should be put in "/datasets/DcmData/testA/" folder;
-    Testing CT image data should be put in "/datasets/DcmData/testB/" folder.
+   Your training CT image data should be put in "/datasets/DcmData/trainB/" folder;
+   Testing MR image data should be put in "/datasets/DcmData/testA/" folder;
+   Testing CT image data should be put in "/datasets/DcmData/testB/" folder.
 2. The mr_max, mr_min, ct_max, ct_min of your dataset should be specified in MR2CT.sh before runing the code;
 3. In ManyTo1.py, you need to specify the ct_max and ct_min again, the value should be the same as step 2. you also need to modify the path to your computer path.
 
