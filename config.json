@@ -1,0 +1,7 @@
+{
+    "ID_list": [51159],
+    "dicom_dir": "/data/wen/DCM_package/datasets/DcmData/testB/",
+    "dicom_dir_new": "/data/wen/DCM_package/results/generated_dicom",
+    "CT_dir" : "/data/wen/DCM_package/results/",
+    "organizationroot" : "1.2.246.352."
+}
