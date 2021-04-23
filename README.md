@@ -1,8 +1,11 @@
 This is the code for published paper: "Synthesizing CT images from MR images with deep learning: model generalization for different datasets through transfer learning". 
 
+
 The code was modified based on Jun-Yan Zhu and Taesung Park's work with pytorch, original link: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
+
 In addition, if you want to use the synthetic CT for clinical dose calculation or other evaluation, we also provided the code to convert the synthetic npy format CT to Eclipse surpported DCM format, hope that will help.
+
 
 You can modify the code to adapt your research work, or simply preparing your data and running according to below steps: 
 
@@ -18,6 +21,7 @@ You can modify the code to adapt your research work, or simply preparing your da
 
 4. This code can only test one patient each time at present, please remember to update corresponding testA and testB data each time for new patient, and export the generated results from "../results/generated_dicom/".
 
+ 
  
 If you find this code is helpful, please cite:
 
