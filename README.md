@@ -20,6 +20,7 @@ You can modify the code to adapt your research work, or simply preparing your da
 
  
 If you find this code is helpful, please cite:
+
 @article{li2021synthesizing,
   title={Synthesizing CT images from MR images with deep learning: model generalization for different datasets through transfer learning},
   author={Li, Wen and Kazemifar, Samaneh and Bai, Ti and Nguyen, Dan and Weng, Yaochung and Li, Yafen and Xia, Jun and Xiong, Jing and Xie, Yaoqin and Owrangi, Amir and others},
