@@ -23,7 +23,7 @@ You can modify the code to adapt your research work, or simply preparing your da
 4. This code can only test one patient each time at present, please remember to update corresponding testA and testB data each time for new patient, and export the generated results from "../results/generated_dicom/".
 
  
- Access to the our dataset will be granted on a case by case basis, depending on submission of a request to the corresponding authors and the institution, following HIPAA policies.
+ Access to the our dataset for non-commercial research purpose will be granted on a case by case basis, depending on submission of a request to the corresponding authors and the institution, following HIPAA policies.
  
  
  
